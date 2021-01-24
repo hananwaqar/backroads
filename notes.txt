@@ -2,3 +2,9 @@ npm install --save bootstrap
 npm install --save node-sass gatsby-plugin-sass
 npm install --save react-icons
 npm install --save gatsby-plugin-styled-components styled-components babel-plugin-styled-components
+npm install  gatsby-transformer-sharp gatsby-plugin-sharp
+npm install --save gatsby-image
+`gatsby-transformer-sharp` , `gatsby-plugin-sharp`,
+npm i gatsby-plugin-transition-link
+npm i gsap
+
